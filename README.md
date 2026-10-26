@@ -62,47 +62,17 @@
 *Os links dos projetos serão adicionados quando os repositórios forem publicados.*
 
 ---
+## 🎓 Certificações
 
-## 🏅 Certificados
-
-### Fortinet
-
-| Certificado | Emissor | Ano |
+| Certificado | Instituição | Emissão |
 |---|---|---|
-| FortiGate 7.6 Operator | Fortinet | 2026 |
-| NSE 3 Certified in Cybersecurity | Fortinet | 2026 |
-
-### Cisco Networking Academy
-
-| Certificado | Emissor | Ano |
-|---|---|---|
-| CCNA: Introduction to Networks | Cisco | 2025 |
-| CCNA: Switching, Routing, and Wireless Essentials | Cisco | 2025 |
-| CCNA: Enterprise Networking, Security, and Automation | Cisco | 2026 |
-| Digital Awareness | Cisco | 2025 |
-| Introduction to Modern AI | Cisco | 2025 |
-
-### AWS Academy
-
-| Certificado | Emissor | Ano |
-|---|---|---|
-| Cloud Foundations | AWS Academy | 2026 |
-
-[Ver badge AWS Academy no Credly](https://www.credly.com/badges/494998cd-5068-476c-ae2b-0fa5d91d1c42/public_url)
-
-### SENAI — Cursos complementares
-
-- Acelerando a Transição para a Economia Circular — 2026
-- Ciclos de Retorno para Economia Circular — 2026
-- Competência Transversal — Segurança no Trabalho — 2025
-- Desvendando a Descarbonização — 2026
-- Desvendando a Indústria 4.0 — 2026
-- Ética na Inteligência Artificial — 2025
-- Excel Básico — 2025
-- FluêncIA — Fundamentos da Inteligência Artificial — 2026
-- Por Dentro da Segurança Cibernética — 2026
-- Edição de Vídeos com Adobe Premiere — 2026
-
+| [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/91053f61-dbd9-4076-a145-e22bb98e597c/linked_in_profile) | Cisco | Dez/2025 |
+| [Introduction to Modern AI](https://www.credly.com/badges/764fcc9e-ef9a-431a-9711-d4ef65a1deca/linked_in_profile) | Cisco | Nov/2025 |
+| [Digital Awareness](https://www.credly.com/badges/5e0bba61-b3ce-4473-a6fd-1db624d5f14b/linked_in_profile) | Cisco | Nov/2025 |
+| [CCNA: Introduction to Networks](https://www.credly.com/badges/122cf342-ecf0-4d64-ae10-4e7df708ec2e) | Cisco | Nov/2025 |
+| [AWS Academy Graduate – Cloud Foundations](https://www.credly.com/badges/494998cd-5068-476c-ae2b-0fa5d91d1c42/public_url) | Amazon Web Services (AWS) | Abr/2026 |
+| [CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/a39f7ae2-8573-444f-aa10-670f51e6de32/linked_in_profile) | Cisco Networking Academy | Jul/2026 |
+| Edição de Vídeos com Adobe Premiere | SENAI São Caetano do Sul – Cyber e IA | Jul/2026 |
 ---
 
 ## 📊 Estatísticas do GitHub

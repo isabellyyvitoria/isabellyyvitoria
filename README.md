@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00C8FF&center=true&vCenter=true&width=800&lines=T%C3%A9cnica+em+Redes+de+Computadores+%7C+Dez%2F2026;Ci%C3%AAncia+de+Dados+%7C+Objetivo+2027;Cloud+Computing;Ciberseguran%C3%A7a;Infraestrutura+de+TI" alt="Texto animado" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabellysvantos/)
-[![GitHub](https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/isabellyyvitoria)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabellyyvitoria)
 
 </div>
 

@@ -4,9 +4,16 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=00C8FF&center=true&vCenter=true&width=700&lines=Estudante+de+Redes+de+Computadores;Explorando+o+mundo+da+Cloud;Aprendendo+sobre+Ciberseguran%C3%A7a;Ci%C3%AAncia+de+Dados+%7C+Objetivo+2027" alt="Apresentação animada" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabellysvantos/)
-[![GitHub](https://img.shields.io/badge/GitHub-Meus%20projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabellyyvitoria)
+ <div align="center">
 
+<a href="https://www.linkedin.com/in/isabellysvantos/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+</a>
+<a href="https://github.com/isabellyyvitoria">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00C8FF" alt="GitHub" height="35"/>
+</a>
+
+</div> 
 </div>
 
 ---

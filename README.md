@@ -51,4 +51,50 @@ Atualmente, desenvolvo meus conhecimentos por meio de laboratórios acadêmicos 
 |---|---|---|
 | **NeoxGate** | Projeto acadêmico de infraestrutura, segmentação e segurança de redes. | FortiGate, redes, AWS |
 | **Monitoramento de infraestrutura** | Laboratório de monitoramento de equipamentos e serviços de rede. | pfSense, Zabbix, SNMP |
-| **Laboratórios Cloud** | Práticas de
+| **Laboratórios Cloud** | Práticas de infraestrutura em nuvem e automação. | AWS, Azure, Terraform |
+| **Administração de sistemas** | Laboratórios com servidores, serviços web e regras de NAT. | Debian, Nginx, Windows Server |
+
+*Os repositórios serão vinculados aqui conforme forem publicados.*
+
+## Certificações
+
+### Cisco
+
+- [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/91053f61-dbd9-4076-a145-e22bb98e597c/linked_in_profile) — Dez/2025
+- [CCNA: Introduction to Networks](https://www.credly.com/badges/122cf342-ecf0-4d64-ae10-4e7df708ec2e) — Nov/2025
+- [Introduction to Modern AI](https://www.credly.com/badges/764fcc9e-ef9a-431a-9711-d4ef65a1deca/linked_in_profile) — Nov/2025
+- [Digital Awareness](https://www.credly.com/badges/5e0bba61-b3ce-4473-a6fd-1db624d5f14b/linked_in_profile) — Nov/2025
+- [CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/a39f7ae2-8573-444f-aa10-670f51e6de32/linked_in_profile) — Jul/2026
+
+### Cloud
+
+- [AWS Academy Graduate – Cloud Foundations](https://www.credly.com/badges/494998cd-5068-476c-ae2b-0fa5d91d1c42/public_url) — Abr/2026
+
+### Fortinet e SENAI
+
+- Fortinet NSE 3 Certified in Cybersecurity — Jul/2026
+- Fortinet FortiGate 7.6 Operator — Jul/2026
+- Edição de Vídeos com Adobe Premiere — SENAI São Caetano do Sul – Cyber e IA — Jul/2026
+- Acelerando a Transição para a Economia Circular — SENAI São Caetano do Sul – Cyber e IA — Jun/2026
+
+*Os certificados sem link público poderão ser adicionados à pasta `certificados/` deste repositório, após a conferência dos dados pessoais presentes nos arquivos.*
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=isabellyyvitoria&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C8FF&icon_color=00C8FF&text_color=C9D1D9" alt="Estatísticas do GitHub" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellyyvitoria&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C8FF&text_color=C9D1D9" alt="Linguagens mais utilizadas" />
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos%20nos%20conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabellysvantos/)
+
+*Obrigada por visitar meu perfil!*
+
+</div>

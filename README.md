@@ -69,8 +69,6 @@ Aqui estão alguns dos projetos e atividades práticas que fazem parte da minha 
 | **Laboratórios Cloud** | Práticas com máquinas virtuais, serviços em nuvem e infraestrutura. | AWS, Azure, Terraform |
 | **Servidores e sistemas** | Laboratórios com serviços web, servidores e regras de rede. | Debian, Nginx, Windows Server |
 
-*Os links serão adicionados conforme os projetos tiverem seus próprios repositórios.*
-
 ## 🎓 Certificados
 
 Separei meus certificados por área para facilitar a consulta. Clique no nome para abrir os certificados que possuem link público.

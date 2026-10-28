@@ -97,8 +97,6 @@ Separei meus certificados por área para facilitar a consulta. Clique no nome pa
 - Fortinet NSE 3 Certified in Cybersecurity — Jul/2026
 - Fortinet FortiGate 7.6 Operator — Jul/2026
 
-*Links dos certificados a adicionar.*
-
 </details>
 
 <details>
